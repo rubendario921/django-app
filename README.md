@@ -17,3 +17,6 @@ ids={matchIds}
 dateFrom={DATE}
 dateTo={DATE}
 status={STATUS}
+
+
+https://www.postman.com/collections/f3449621c47b66b53725
